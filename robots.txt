@@ -1,0 +1,6 @@
+User-agent: *
+
+Allow: /
+
+Sitemap:
+https://indour61.github.io/portfolio-dev/sitemap.xml
